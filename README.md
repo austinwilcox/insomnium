@@ -1,7 +1,5 @@
 # Insomnium API Client
 
-*\<currently not being actively maintained>*
- 
 Insomnium is a 100% local and privacy-focused open-source API client for testing GraphQL, REST, WebSockets, Server-sent events and gRPC in development/production.
 
 - ✅ works 100% offline, the way a local testing tool should behave <br>
@@ -15,16 +13,16 @@ Insomnium is a 100% local and privacy-focused open-source API client for testing
 
 ## Current Status
 
-Due to another related project, this repo is no longer being actively maintained. (You are welcomed to fork this and continue from here on)
+In my free time I plan to tinker and add features here and there as I need them.
 
 ## General
 
-I have removed user login, tracking, analytics, etc, from Insomnia so it is now a 100% local app. (And runs faster!)
+ArchGPT removed user login, tracking, analytics, etc, from Insomnia so it is now a 100% local app. (And runs faster!)
 
 
 ## Download
 
-Insomnium is available for Mac, Windows, Ubuntu, Debian, CentOS, Fedora and [can be downloaded here](https://github.com/ArchGPT/insomnium/releases). Insomnium is also [available on AUR for ArchLinux](https://aur.archlinux.org/packages/insomnium-bin). 
+Insomnium is available for Mac, Windows, Ubuntu, Debian, CentOS, Fedora and (TODO UPDATE TO THIS REPO)[can be downloaded here](https://github.com/ArchGPT/insomnium/releases). Insomnium is also (TODO CREATE PACKAGE ON AUR?)[available on AUR for ArchLinux](https://aur.archlinux.org/packages/insomnium-bin). 
 
 Alternatively, you can build Insomnium from source on your local machine using `npm run app-package`.
 
